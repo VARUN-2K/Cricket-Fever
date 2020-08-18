@@ -1,0 +1,21 @@
+{
+  "name": "crciket-score",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ape-cricket": "^1.1.7",
+    "cheerio": "^1.0.0-rc.3",
+    "cricapi": "^1.2.9",
+    "express": "^4.17.1",
+    "html-to-json": "^0.6.0",
+    "newsapi": "^2.4.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
+  }
+}
